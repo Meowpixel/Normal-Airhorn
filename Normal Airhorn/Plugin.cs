@@ -14,7 +14,7 @@ namespace Normal_Airhorn
             Logger.LogInfo($"Plugin {PluginInfo.PLUGIN_GUID} is loaded!");
 
             AudioClip newSound;
-            newSound = SoundTool.GetAudioClip("Meowpixel-Normal Airhorn", "airhorn.mp3");
+            newSound = SoundTool.GetAudioClip("Meowpixel-Normal_Airhorn", "airhorn.mp3");
 
             SoundTool.ReplaceAudioClip("AirHorn1", newSound);
 

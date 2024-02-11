@@ -1,0 +1,14 @@
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\bin\Debug\netstandard2.1\Normal_Airhorn.deps.json
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\bin\Debug\netstandard2.1\Normal_Airhorn.dll
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\bin\Debug\netstandard2.1\Normal_Airhorn.pdb
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal Airhorn.csproj.AssemblyReference.cache
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal Airhorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal Airhorn.AssemblyInfoInputs.cache
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal Airhorn.AssemblyInfo.cs
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal Airhorn.csproj.CoreCompileInputs.cache
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal_Airhorn.dll
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal_Airhorn.pdb
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\bin\Debug\netstandard2.1\LC_SoundTool.dll
+C:\Users\Henry Field\source\repos\Normal Airhorn\Normal Airhorn\obj\Debug\netstandard2.1\Normal Airhorn.csproj.CopyComplete
